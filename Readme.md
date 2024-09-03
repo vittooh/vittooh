@@ -9,7 +9,7 @@
   <img align="center" alt="Rafa-HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
   <img align="center" alt="Rafa-HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Rafa-HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Rafa-HTML" height="70" width="70" src="https://cncf-branding.netlify.app/img/projects/opentelemetry/horizontal/color/opentelemetry-horizontal-color.svg">
+  <img align="center" alt="Rafa-HTML" height="70" width="70" src="https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg">
   <img align="center" alt="Rafa-HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
 </div>
 
